@@ -1,3 +1,5 @@
 #Ignore vendor image MIUI V12.5.16.RKPXMCN
 vendor/China/vendor.img
 vendor/Global/vendor.img
+Android_boot_image_editor
+payload_dumper
